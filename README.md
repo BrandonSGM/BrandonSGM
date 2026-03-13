@@ -11,8 +11,6 @@ Data Analyst passionate about transforming business data into actionable insight
 
 ## 🚀 Featured Projects
 - Retail Sales Performance Analysis
-- Customer Analytics
-- Finance Dashboard
 
 ## 🧠 Currently Improving
 - Power BI 
