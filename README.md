@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Brandon S. Gomez Murcia
 
-<!--
-**BrandonSGM/BrandonSGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst passionate about transforming business data into actionable insights.
 
-Here are some ideas to get you started:
+## 📊 Core Skills
+- Power BI
+- DAX
+- Power Query
+- SQL
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Retail Sales Performance Analysis
+- Customer Analytics
+- Finance Dashboard
+
+## 🧠 Currently Improving
+- Power BI 
+- Advanced SQL
+
+## 🌐 Connect with me
+LinkedIn: https://www.linkedin.com/in/brandon-gomez-3559b5306/
