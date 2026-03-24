@@ -11,6 +11,7 @@ Data Analyst passionate about transforming business data into actionable insight
 
 ## 🚀 Featured Projects
 - Retail Sales Performance Analysis
+- Business-Analysis-SQL-POWER BI
 
 ## 🧠 Currently Improving
 - Power BI 
